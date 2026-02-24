@@ -1,0 +1,10 @@
+# Lab 4: Virtual Memory in WeensyOS
+
+This is lab4 for NEU-SEA CS5600, Spring 2026
+
+The code is WeensyOS, written by Eddie Kohler.
+
+The lab description is derived from UCL CS 0019 Coursework 4 and
+Harvard's CS61 Problem Set 4.
+
+See README-OS.md for information on how to run WeensyOS.
